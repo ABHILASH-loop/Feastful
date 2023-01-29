@@ -1,0 +1,2 @@
+veg :       https://www.themealdb.com/api/json/v1/1/filter.php?c=vegetarian
+food_inst : https://www.themealdb.com/api/json/v1/1/lookup.php?i=52807
